@@ -1,0 +1,13 @@
+f1dae643c794ce56b9f16d5a648b2a7e *DESCRIPTION
+44427785a94c756b0d61ceba017a268f *LICENSE
+15952b745582f29e5030e253f30b3c40 *NAMESPACE
+cf9b96f3f8f6c2cefc4042cfc22a00ca *R/Danon_sim_index.R
+89b3b3f46c14e89e32a0bf10493f5647 *R/fit_mixmar.R
+18f69a7274b70ceeaff6fd2e4dc16359 *R/marloglik_contr.R
+a9e4a74f9d0abd18e3a8e1fb2461ce4e *R/numtransitions.R
+490562f6e57573c180e1d16e62e3ac22 *R/rdweibt.R
+09ee2d2dce9a912195c598f0d7b14e67 *R/sim_seq.R
+029054f8db4cf7a1bf20baa9c5330a96 *R/splitdatalist.R
+e3356d874118c602017dd9cf70d1d940 *man/clickb-package.Rd
+9ca0997e4acf280f8b2ac442ef12111b *man/fit_mixmar.Rd
+c30d72a04cfd234d48be315466033d52 *man/sim_seq.Rd
